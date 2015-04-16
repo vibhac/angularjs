@@ -1,0 +1,3 @@
+# angularjs
+first repository on github
+this is just a new project created on github... 
